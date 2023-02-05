@@ -8,7 +8,7 @@ count_lists=list()
 fields = ['Div_Count','Span_Count','Link_Count','Para_Count',
             'List_Count','Img_Count','Btn_Count','Script_Count','Iframe_Count','Table_Count','Article_Count','Word_Count','Link','Article']  #change here
 
-filename = "samsung_prism_art.csv"  
+filename = "web_art.csv"  
 mydict_list =[]
             
 
